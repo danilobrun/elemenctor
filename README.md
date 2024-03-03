@@ -1,8 +1,11 @@
-# clubistaCampeao
+# Elemenctor
 
-Project developed for graduate bootcamp infnet. Technologies (html, css and javascript) virtual store _e-commerce_ responsive website, working with cache, browsers and whatsapp API for customer ord…# semanaIntroducaoInfnet
+Project developed for elemenctor store. Technologies (html, css and javascript) virtual store _e-commerce_ responsive website, working with cache, browsers and whatsapp API for customer order.
 
 # site
 
-Para acesso ao site demo [clubistaCampeao]
+Para acesso ao site demo [Elemenctor_]
 (https://loving-banach-2222e0.netlify.app/)
+
+Para acesso ao instagram [Elemenctor_]
+https://www.instagram.com/elemenctor_/?hl=pt
