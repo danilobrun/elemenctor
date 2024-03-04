@@ -5,7 +5,7 @@ Project developed for elemenctor store. Technologies (html, css and javascript) 
 # site
 
 Para acesso ao site demo [Elemenctor_]
-(https://loving-banach-2222e0.netlify.app/)
+(https://main--elemenctor.netlify.app/)
 
 Para acesso ao instagram [Elemenctor_]
 https://www.instagram.com/elemenctor_/?hl=pt
